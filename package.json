@@ -1,0 +1,36 @@
+{
+  "name": "raffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xianren xiong",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "config": "^1.21.0",
+    "connect-mongo": "^1.3.2",
+    "ejs-mate": "^2.3.0",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "jade": "^1.11.0",
+    "mongoose": "^4.6.5",
+    "path": "^0.12.7",
+    "require": "^2.4.20",
+    "sha1": "^1.1.1",
+    "url": "^0.11.0",
+    "uuid": "^2.0.3",
+    "wechat-api": "^1.31.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-watch": "^4.3.10"
+  }
+}
