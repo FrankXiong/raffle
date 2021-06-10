@@ -1,6 +1,6 @@
 'use strict'
 
-const JHKEY = 'JHba0a1779bb16b46c654692a8969173da'
+const JHKEY = ''
 const URL = 'http://apis.juhe.cn/catering/query'
 
 const User = require('../model/user')
